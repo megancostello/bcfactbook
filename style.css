@@ -1,0 +1,49 @@
+body {
+    background-color: #F3E9FB;
+}
+
+.button {
+    background-color:steelblue;
+    
+}
+
+h1 {
+    color:black;
+   
+}
+
+a:hover {
+    background-color:lightblue;
+}
+
+a {
+    font-size:20px;
+}
+
+#content {
+    color: black;
+    
+}
+
+#content p {
+    background-color:white;
+    border-radius: 15px;
+    padding: 5px;
+    color: black;
+    border: 2px solid purple;
+    
+}
+
+
+body {
+    margin-left: 10px;
+}
+
+img {
+    width: 350px;
+    padding: 5px;
+    right: 0px;
+    float: "right";
+    border: 2px solid purple;
+    border-radius: 15px;
+}
